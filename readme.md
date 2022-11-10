@@ -1,6 +1,6 @@
 # Files Sharing
 
-<p align="center"><img src="https://github.com/axeloz/filesharing/raw/master/public/img/capture.png" width="700" /></p>
+<p align="center"><img src="https://github.com/cryptotopstar/filesharing/raw/master/public/img/capture.png" width="700" /></p>
 
 Powered by Laravel
 <p><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
@@ -113,20 +113,3 @@ There are many ideas to come. You are welcome to **participate**.
 - customizable / white labeling (logo, name, terms of service, footer ...)
 - responsiveness (is it really useful?)
 
-## Licence
-
-GPLv3
-
-| Permissions     | Conditions                    | Limitations |
-| --------------- | ----------------------------- | ----------- |
-| Commercial use  | Disclose source               | Liability   |
-| Distribution    | License and copyright notice  | Warranty    |
-| Modification    | Same license                  |             |
-| Patent use      |  State changes                |             |
-| Private use     |                               |             |
-
-https://choosealicense.com/licenses/gpl-3.0/
-
-## Welcome on board
-
-If you are willing to **participate** or if you just want to talk with me : sharing@mabox.eu
